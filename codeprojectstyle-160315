@@ -1,0 +1,48 @@
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 960px;
+    background-color: greenyellow;
+}
+
+.nav {
+    width: 950px;
+    height: 80px;
+    float: left;
+    clear: both;
+    margin: 5px;
+    background-color: aqua;
+}
+.header {
+    width: 100%;
+    height: auto;
+    float: left;
+    clear: both;
+    margin: 5px;
+    background-color: red;
+}
+.side {
+    width: 25%;
+    height: 1000px;
+    float: left;
+    clear:
+    margin: 5px 20%;
+    background-color: darkviolet;
+}
+.main {
+    width: 100%;
+    height: 100%;
+    float: right;
+    clear: both;
+    margin: 900px;
+    background-color: saddlebrown;
+}
+
+.footer {
+    width: 100%;
+    height: 100%;
+    float: bottom;
+    clear: both;
+    margin: 10px 20%;
+    background-color: gold;
+}
